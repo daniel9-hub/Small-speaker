@@ -2,7 +2,7 @@
 Small speaker powered by USB-C.
 I made it because i wanted to make a small speaker and i also wanted to use parts that i had at home.
 # How to use
-To power it just plug a USB-C cable into the usb-c connector and for audio plug in a 3.5mm audio cable into the audio port
+To power it, plug in a USB-C cable into the USB-C connector. For audio, plug in a 3.5mm audio cable into the audio port.
 # Wiring
 <img width="974" height="610" alt="Image" src="https://github.com/user-attachments/assets/4fd68c76-12c4-450f-b996-bf1c8ecdb474" />
 
