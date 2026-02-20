@@ -12,3 +12,13 @@ To power it just plug a USB-C cable into the usb-c connector and for audio plug 
 # Case 
 <img width="609" height="567" alt="Image" src="https://github.com/user-attachments/assets/777d1bd6-7a0e-429b-b816-ed2725b878cc" />
 
+# BoM
+| Item	| Quantity	| Source |
+|-------|-----------|--------|
+|PAM8403 audio amplifier	|1	|https://a.aliexpress.com/_Ey9j9pI |
+|3.5mm audio connector	|1	|https://a.aliexpress.com/_EvqEjxw |
+|52mm speaker	|1	|https://a.aliexpress.com/_EIqc1qC |
+|USB-C connector	|1	|https://a.aliexpress.com/_EHcR3FS |
+|Wires	|7	|
+|Screws	|4	|
+|Nuts	|4	|
