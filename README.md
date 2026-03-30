@@ -12,6 +12,9 @@ To power it, plug in a USB-C cable into the USB-C connector. For audio, plug in 
 # Case 
 <img width="609" height="567" alt="Image" src="https://github.com/user-attachments/assets/777d1bd6-7a0e-429b-b816-ed2725b878cc" />
 
+# Finished speaker
+![Image](https://github.com/user-attachments/assets/447f4008-6c4e-49ae-926f-d8212c1dbbe7)
+
 # BoM
 | Item	| Quantity	| Source |
 |-------|-----------|--------|
